@@ -1,4 +1,17 @@
-### Hi there 👋
+#### Fwiw
+
+"There's no such thing as work-life balance, there are only work-life choices, you make them, and they have consequences." - Jack Welch
+
+#### Here's what's new ...
+
+- ##### [built an actor model framework](https://github.com/iamalnewkirk/zing)
+- ##### [built a sql statement generator](https://github.com/iamalnewkirk/sql-engine)
+- ##### [created a json-schema spec for sql](https://github.com/iamalnewkirk/json-sql)
+- ##### [developed a zero-config way to spin-up test databases](https://github.com/iamalnewkirk/test-db)
+- ##### [created a structured logging library](https://github.com/iamalnewkirk/flight-recorded)
+- ##### [built an object-orientation framework for perl 5](https://github.com/iamalnewkirk/data-object)
+- ##### [developed a fake data generation library](https://github.com/iamalnewkirk/faker)
+- ##### [working to resolves these issues](https://github.com/search?q=user%3Aiamalnewkirk+&state=open&type=Issues)
 
 <!--
 **iamalnewkirk/iamalnewkirk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
