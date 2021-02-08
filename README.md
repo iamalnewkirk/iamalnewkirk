@@ -12,7 +12,7 @@
 - ##### [created a structured logging library](https://github.com/cpanery/flight-recorded)
 - ##### [built an object-orientation framework for perl 5](https://github.com/cpanery/data-object)
 - ##### [developed a fake data generation library](https://github.com/cpanery/faker)
-- ##### [working to resolves these issues](https://github.com/search?q=user%3Aiamalnewkirk+&state=open&type=Issues)
+- ##### [helping others to resolves these issues](https://github.com/search?l=&q=author%3Aiamalnewkirk&state=open&type=Issues)
 
 <!--
 **iamalnewkirk/iamalnewkirk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
