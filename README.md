@@ -4,4 +4,4 @@
 
 #### Here's what's new ...
 
-- ##### [Musing about APIs and service-oriented architectures](https://alnewkirk.com)
+- ##### [Blogging about APIs and service-oriented architectures](https://alnewkirk.com)
